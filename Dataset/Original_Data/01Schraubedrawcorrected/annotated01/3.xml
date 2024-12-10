@@ -1,0 +1,74 @@
+<annotation>
+    <folder>01Schraubedrawcorrected</folder>
+    <filename>3.jpg</filename>
+    <size>
+        <width>1654</width>
+        <height>2338</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>Schraube_01-radius fehler-briete klei-y</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>648</xmin>
+            <ymin>1292</ymin>
+            <xmax>1194</xmax>
+            <ymax>1535</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Schraube_01-radius fehler-briete klei-y</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>627</xmin>
+            <ymin>895</ymin>
+            <xmax>1166</xmax>
+            <ymax>1105</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Schraube_01-radius fehler-briete klei-y</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>900</xmin>
+            <ymin>664</ymin>
+            <xmax>1190</xmax>
+            <ymax>822</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Schraube_01-radius fehler-briete klei-y</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>608</xmin>
+            <ymin>589</ymin>
+            <xmax>770</xmax>
+            <ymax>775</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Schraube_01-radius fehler-briete klei-y</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>590</xmin>
+            <ymin>292</ymin>
+            <xmax>1169</xmax>
+            <ymax>559</ymax>
+        </bndbox>
+    </object>
+</annotation>

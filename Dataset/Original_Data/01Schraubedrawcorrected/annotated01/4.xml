@@ -1,0 +1,22 @@
+<annotation>
+    <folder>01Schraubedrawcorrected</folder>
+    <filename>4.jpg</filename>
+    <size>
+        <width>1654</width>
+        <height>2338</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>Schraube_01-radius fehler-briete klei-y</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>942</xmin>
+            <ymin>1511</ymin>
+            <xmax>1653</xmax>
+            <ymax>2102</ymax>
+        </bndbox>
+    </object>
+</annotation>
