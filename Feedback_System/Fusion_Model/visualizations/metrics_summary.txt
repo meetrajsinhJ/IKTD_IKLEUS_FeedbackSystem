@@ -1,0 +1,8 @@
+Training Metrics Summary
+==================================================
+
+LOSS: 0.0100
+PRECISION: 0.7728
+RECALL: 0.7709
+F1: 0.7718
+ACCURACY: 0.9657
