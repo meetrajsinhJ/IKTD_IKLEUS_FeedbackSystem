@@ -63,7 +63,9 @@ b). SIFT feature Matching and Homography Matrix Calculations:
 5.IMAGE CLASSIFICATION:
 
 
-Classification of the images based on the drawing type: Finetuning ResNet50 , EfficicentNet Models on this custom Dataset.
+-> Classification of the images based on the drawing type: 
+
+Finetuning ResNet50 , EfficicentNet Models on this custom Dataset.
 Models along with the Training Scripts are uploaded in Image Classification directory.
 
 
@@ -73,9 +75,9 @@ Models along with the Training Scripts are uploaded in Image Classification dire
 
 6.IMAGE SEGMENTATION:
 
-Segementing the drawing and the text box on the Image.
+-> Segementing the drawing and the text box on the Image.
 
-Trained a yolov8 model on custom dataset.
+   Trained a yolov8 model on custom dataset.
 
    ![result](https://github.com/user-attachments/assets/c3fd8783-8096-4256-acd2-eb9cb11b2e1c)
 
