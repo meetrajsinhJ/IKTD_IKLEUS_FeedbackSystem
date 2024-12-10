@@ -1,0 +1,9 @@
+file_id,row_number,x_center,y_center,width,height,annotation_text
+118,1,0.499698,0.525663,0.474607,0.457656,"8 Gegebene Schraffur korrekt fortgesetzt, schmale Volllinie, Schraffur jeweils bis Köperkante-Sicher"
+118,2,0.539601,0.356287,0.32104,0.095808,"7.1 Schraube: Körperkante breit, Gewindekern schmal-7.1 Ende Gewinde: umlaufende Körperkante-7.2 Gewindereserve: Grundloch breit, Kern schmal-7.2 Ende Gewinde: umlaufende Körperkante-Sicher"
+118,3,0.502418,0.611848,0.234583,0.081694,5 X =3*P = 15 mm-Sicher
+118,4,0.53295,0.472412,0.314994,0.077417,4 zwei Fasen 2x45® (umlaufende Kanten!)-Sicher
+118,5,0.53023,0.303465,0.65659,0.062874,3 Außendurchmesser korrekt (d2 = 120 mm)
+118,6,0.515115,0.200171,0.356711,0.132592,Sicher
+118,7,0.503628,0.301112,0.374849,0.080411,"2.2 Sechskant mit Strichlinie oder nicht dargestellt, Außenkante des Schraubenkopfs gerundet oder gefast"
+118,8,0.493954,0.338537,0.293833,0.052609,Sicher

@@ -1,0 +1,9 @@
+9 Schriftfeld-9 Vollständig und korrekt-1
+8 Schraffur-8 Gegebene Schraffur korrekt fortgesetzt, schmale Volllinie, Schraffur jeweils bis Köperkante-Sicher
+7 Gewindedarstellung-7.1 Schraube: Körperkante breit, Gewindekern schmal-7.1 Ende Gewinde: umlaufende Körperkante-7.2 Gewindereserve: Grundloch breit, Kern schmal-7.2 Ende Gewinde: umlaufende Körperkante-Sicher
+6 Grundloch-6 e1= 22...22,4...23 mm-Sicher
+5 Gewindereserve-5 X =3*P = 15 mm-Sicher
+4 Platte-4 Durchgangsloch: Durchmesser db = 48 mm-Sicher
+4 Platte-4 zwei Fasen 2x45® (umlaufende Kanten!)-Sicher
+2 Schraubenkopf-2.2 Sechskant mit Strichlinie oder nicht dargestellt, Außenkante des Schraubenkopfs gerundet oder gefast
+(Maß 4 mm)-Sicher

@@ -1,0 +1,6 @@
+file_id,row_number,x_center,y_center,width,height,annotation_text
+34,1,0.533793,0.859624,0.823448,0.173661,9 Vollständig und korrekt-1
+34,2,0.528966,0.581283,0.175172,0.193922,"7.1 Schraube: Körperkante breit, Gewindekern schmal-7.1 Ende Gewinde: umlaufende Körperkante-7.2 Gewindereserve: Grundloch breit, Kern schmal-7.2 Ende Gewinde: umlaufende Körperkante-Sicher"
+34,3,0.53,0.428606,0.108276,0.055475,"2.2 Sechskant mit Strichlinie oder nicht dargestellt, Außenkante des Schraubenkopfs gerundet oder gefast"
+34,4,0.528621,0.450072,0.152414,0.027979,Sicher
+34,5,0.532414,0.473227,0.117241,0.02219,"2.1 Tangentialer Übergang, Höhe k = 40 mm (‡ 1 mm)-Sicher"

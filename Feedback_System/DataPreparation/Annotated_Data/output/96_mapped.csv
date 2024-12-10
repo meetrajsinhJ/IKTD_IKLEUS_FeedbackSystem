@@ -1,0 +1,7 @@
+file_id,row_number,x_center,y_center,width,height,annotation_text
+96,1,0.509674,0.823139,0.831923,0.174936,9 Vollständig und korrekt-1
+96,2,0.49607,0.559666,0.30532,0.158683,"7.1 Schraube: Körperkante breit, Gewindekern schmal-7.1 Ende Gewinde: umlaufende Körperkante-7.2 Gewindereserve: Grundloch breit, Kern schmal-7.2 Ende Gewinde: umlaufende Körperkante-Sicher"
+96,3,0.496372,0.573353,0.244256,0.085971,5 X =3*P = 15 mm-Sicher
+96,4,0.505441,0.247861,0.436518,0.086826,"2.1 Tangentialer Übergang, Höhe k = 40 mm (‡ 1 mm)-Sicher"
+96,5,0.498186,0.329769,0.379686,0.477331,1 Länge | = 80 mm-Sicher
+96,6,0.495768,0.293199,0.311971,0.053464,1 Fase am unteren Ende (zwei umlaufende Körperkanten)-Sicher

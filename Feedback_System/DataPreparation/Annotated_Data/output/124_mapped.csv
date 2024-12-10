@@ -1,0 +1,8 @@
+file_id,row_number,x_center,y_center,width,height,annotation_text
+124,1,0.525998,0.878315,0.846433,0.178358,9 Vollständig und korrekt-1
+124,2,0.508162,0.407399,0.339178,0.206587,4 Durchgangsloch: Durchmesser db = 48 mm-Sicher
+124,3,0.516626,0.399487,0.282346,0.236099,4 zwei Fasen 2x45® (umlaufende Kanten!)-Sicher
+124,4,0.509069,0.234816,0.201935,0.062447,"2.2 Sechskant mit Strichlinie oder nicht dargestellt, Außenkante des Schraubenkopfs gerundet oder gefast"
+124,5,0.509674,0.30047,0.368803,0.088537,Sicher
+124,6,0.512092,0.350299,0.272068,0.030796,"2.1 Tangentialer Übergang, Höhe k = 40 mm (‡ 1 mm)-Sicher"
+124,7,0.515719,0.324209,0.409915,0.10864,1 Fase am unteren Ende (zwei umlaufende Körperkanten)-Sicher

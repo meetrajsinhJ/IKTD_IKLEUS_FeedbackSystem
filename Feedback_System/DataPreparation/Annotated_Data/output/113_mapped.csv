@@ -1,0 +1,8 @@
+file_id,row_number,x_center,y_center,width,height,annotation_text
+113,1,0.53295,0.880881,0.849456,0.180068,9 Vollständig und korrekt-1
+113,2,0.525393,0.658469,0.227328,0.062874,"6 e1= 22...22,4...23 mm-Sicher"
+113,3,0.51844,0.611634,0.238815,0.080411,5 X =3*P = 15 mm-Sicher
+113,4,0.510278,0.39521,0.316808,0.219846,4 zwei Fasen 2x45® (umlaufende Kanten!)-Sicher
+113,5,0.517836,0.318007,0.626965,0.050898,3 Außendurchmesser korrekt (d2 = 120 mm)
+113,6,0.519347,0.172583,0.345828,0.055175,Sicher
+113,7,0.512394,0.307314,0.399637,0.082549,"2.2 Sechskant mit Strichlinie oder nicht dargestellt, Außenkante des Schraubenkopfs gerundet oder gefast"

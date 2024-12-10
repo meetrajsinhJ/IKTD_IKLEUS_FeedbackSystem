@@ -1,0 +1,4 @@
+9 Schriftfeld-9 Vollständig und korrekt-1
+4 Platte-4 Durchgangsloch: Durchmesser db = 48 mm-Sicher
+3 Scheibe-3 Außendurchmesser korrekt (d2 = 120 mm)
+Wenn geschnitten: umlaufende Kanten vollständig-Sicher

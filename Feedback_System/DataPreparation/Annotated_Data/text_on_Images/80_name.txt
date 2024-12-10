@@ -1,0 +1,7 @@
+9 Schriftfeld-9 Vollständig und korrekt-1
+8 Schraffur-8 Gegebene Schraffur korrekt fortgesetzt, schmale Volllinie, Schraffur jeweils bis Köperkante-Sicher
+6 Grundloch-6 e1= 22...22,4...23 mm-6 Winkel Bohrerspitze = 118°.
+..120°-Sicher
+6 Grundloch-6 e1= 22...22,4...23 mm-Sicher
+4 Platte-4 zwei Fasen 2x45® (umlaufende Kanten!)-Sicher
+3 Scheibe-3 Außendurchmesser korrekt (d2 = 120 mm)

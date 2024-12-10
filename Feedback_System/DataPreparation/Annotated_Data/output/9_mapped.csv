@@ -1,0 +1,7 @@
+file_id,row_number,x_center,y_center,width,height,annotation_text
+9,1,0.5789,0.861634,0.810762,0.169803,9 Vollständig und korrekt-1
+9,2,0.57104,0.615697,0.44075,0.263901,"8 Gegebene Schraffur korrekt fortgesetzt, schmale Volllinie, Schraffur jeweils bis Köperkante-Sicher"
+9,3,0.569528,0.690975,0.232164,0.071429,"6 e1= 22...22,4...23 mm-Sicher"
+9,4,0.560459,0.347947,0.311971,0.073995,"2.2 Sechskant mit Strichlinie oder nicht dargestellt, Außenkante des Schraubenkopfs gerundet oder gefast"
+9,5,0.570133,0.463644,0.305925,0.053037,Sicher
+9,6,0.569226,0.489093,0.341596,0.116766,"2.1 Tangentialer Übergang, Höhe k = 40 mm (‡ 1 mm)-Sicher"

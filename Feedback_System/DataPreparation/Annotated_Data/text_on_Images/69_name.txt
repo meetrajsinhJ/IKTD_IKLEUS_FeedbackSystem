@@ -1,0 +1,8 @@
+9 Schriftfeld-9 Vollständig und korrekt-1
+8 Schraffur-8 Gegebene Schraffur korrekt fortgesetzt, schmale Volllinie, Schraffur jeweils bis Köperkante-Sicher
+5 Gewindereserve-5 X =3*P = 15 mm-Sicher
+4 Platte-4 Durchgangsloch: Durchmesser db = 48 mm-Sicher
+4 Platte-4 zwei Fasen 2x45® (umlaufende Kanten!)-Sicher
+2 Schraubenkopf-2.2 Sechskant mit Strichlinie oder nicht dargestellt, Außenkante des Schraubenkopfs gerundet oder gefast
+(Maß 4 mm)-Sicher
+2 Schraubenkopf-2.1 Tangentialer Übergang, Höhe k = 40 mm (‡ 1 mm)-Sicher

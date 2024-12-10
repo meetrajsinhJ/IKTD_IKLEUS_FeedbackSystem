@@ -1,0 +1,9 @@
+file_id,row_number,x_center,y_center,width,height,annotation_text
+115,1,0.519347,0.417237,0.318017,0.200599,4 zwei Fasen 2x45® (umlaufende Kanten!)-Sicher
+115,2,0.533857,0.310522,0.457074,0.071856,3 Außendurchmesser korrekt (d2 = 120 mm)
+115,3,0.521463,0.245723,0.38029,0.085971,Sicher
+115,4,0.521765,0.31095,0.377267,0.092387,"2.2 Sechskant mit Strichlinie oder nicht dargestellt, Außenkante des Schraubenkopfs gerundet oder gefast"
+115,5,0.516626,0.587254,0.356106,0.062447,Sicher
+115,6,0.511487,0.523311,0.290206,0.085115,"2.1 Tangentialer Übergang, Höhe k = 40 mm (‡ 1 mm)-Sicher"
+115,7,0.51058,0.335971,0.267836,0.047476,1 Fase am unteren Ende (zwei umlaufende Körperkanten)-Sicher
+115,8,0.525091,0.334474,0.402056,0.112062,1 Durchmesser d = 40 mm-Sicher

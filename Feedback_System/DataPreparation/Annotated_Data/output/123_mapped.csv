@@ -1,0 +1,5 @@
+file_id,row_number,x_center,y_center,width,height,annotation_text
+123,1,0.527811,0.87917,0.846433,0.184346,9 Vollständig und korrekt-1
+123,2,0.501512,0.529299,0.426239,0.445252,"8 Gegebene Schraffur korrekt fortgesetzt, schmale Volllinie, Schraffur jeweils bis Köperkante-Sicher"
+123,3,0.519045,0.414457,0.289601,0.181352,4 zwei Fasen 2x45® (umlaufende Kanten!)-Sicher
+123,4,0.509976,0.311591,0.341596,0.091103,"2.1 Tangentialer Übergang, Höhe k = 40 mm (‡ 1 mm)-Sicher"

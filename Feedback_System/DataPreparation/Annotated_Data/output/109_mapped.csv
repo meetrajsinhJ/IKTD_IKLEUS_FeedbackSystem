@@ -1,0 +1,5 @@
+file_id,row_number,x_center,y_center,width,height,annotation_text
+109,1,0.702539,0.634517,0.25393,0.234816,"8 Gegebene Schraffur korrekt fortgesetzt, schmale Volllinie, Schraffur jeweils bis Köperkante-Sicher"
+109,2,0.482769,0.652267,0.230351,0.086399,5 X =3*P = 15 mm-Sicher
+109,3,0.505139,0.519247,0.308948,0.065013,4 zwei Fasen 2x45® (umlaufende Kanten!)-Sicher
+109,4,0.480955,0.3858,0.360943,0.118905,"1 Länge | = 80 mm, Durchmesser d = 40 mm"

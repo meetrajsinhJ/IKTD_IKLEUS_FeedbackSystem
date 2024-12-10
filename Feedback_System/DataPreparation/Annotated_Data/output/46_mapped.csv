@@ -1,0 +1,9 @@
+file_id,row_number,x_center,y_center,width,height,annotation_text
+46,1,0.531439,0.884944,0.842805,0.183062,9 Vollständig und korrekt-1
+46,2,0.493047,0.548332,0.422612,0.472198,"8 Gegebene Schraffur korrekt fortgesetzt, schmale Volllinie, Schraffur jeweils bis Köperkante-Sicher"
+46,3,0.524184,0.408683,0.331318,0.181779,4 zwei Fasen 2x45® (umlaufende Kanten!)-Sicher
+46,4,0.508162,0.316938,0.628174,0.082121,3 Außendurchmesser korrekt (d2 = 120 mm)
+46,5,0.509371,0.221771,0.357316,0.150128,Sicher
+46,6,0.507255,0.315227,0.342201,0.111206,"2.2 Sechskant mit Strichlinie oder nicht dargestellt, Außenkante des Schraubenkopfs gerundet oder gefast"
+46,7,0.502721,0.375962,0.429867,0.478186,Sicher
+46,8,0.512394,0.345808,0.376663,0.132164,"2.1 Tangentialer Übergang, Höhe k = 40 mm (‡ 1 mm)-Sicher"

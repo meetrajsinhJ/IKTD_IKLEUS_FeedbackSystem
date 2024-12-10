@@ -1,0 +1,7 @@
+file_id,row_number,x_center,y_center,width,height,annotation_text
+102,1,0.510883,0.632378,0.275695,0.078272,5 X =3*P = 15 mm-Sicher
+102,2,0.516929,0.404405,0.26844,0.186912,4 Durchgangsloch: Durchmesser db = 48 mm-Sicher
+102,3,0.510278,0.405475,0.292624,0.196749,4 zwei Fasen 2x45® (umlaufende Kanten!)-Sicher
+102,4,0.503628,0.3858,0.389359,0.482464,1 Länge | = 80 mm-Sicher
+102,5,0.508162,0.342173,0.312576,0.042772,1 Fase am unteren Ende (zwei umlaufende Körperkanten)-Sicher
+102,6,0.532346,0.32485,0.435913,0.117622,"1 Länge | = 80 mm, Durchmesser d = 40 mm"

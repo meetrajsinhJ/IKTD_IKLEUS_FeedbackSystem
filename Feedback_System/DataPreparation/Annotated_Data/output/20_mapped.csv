@@ -1,0 +1,10 @@
+file_id,row_number,x_center,y_center,width,height,annotation_text
+20,1,0.527811,0.880667,0.839178,0.175364,9 Vollständig und korrekt-1
+20,2,0.539903,0.624465,0.501814,0.320787,"8 Gegebene Schraffur korrekt fortgesetzt, schmale Volllinie, Schraffur jeweils bis Köperkante-Sicher"
+20,3,0.525695,0.675791,0.237606,0.114628,"6 e1= 22...22,4...23 mm-6 Fase max. 1x45°"
+20,4,0.54081,0.609495,0.330713,0.14799,Sicher
+20,5,0.520254,0.433062,0.33555,0.17408,5 X =3*P = 15 mm-Sicher
+20,6,0.515115,0.405047,0.275695,0.195039,4 Durchgangsloch: Durchmesser db = 48 mm-Sicher
+20,7,0.525091,0.200171,0.364571,0.117194,4 zwei Fasen 2x45® (umlaufende Kanten!)-Sicher
+20,8,0.541415,0.289991,0.439541,0.083832,"2.2 Sechskant mit Strichlinie oder nicht dargestellt, Außenkante des Schraubenkopfs gerundet oder gefast"
+20,9,0.51844,0.345595,0.368198,0.143713,Sicher

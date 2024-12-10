@@ -1,0 +1,8 @@
+file_id,row_number,x_center,y_center,width,height,annotation_text
+32,1,0.470163,0.760274,0.207354,0.089041,"6 e1= 22...22,4...23 mm-Sicher"
+32,2,0.46745,0.470462,0.289934,0.163527,4 Durchgangsloch: Durchmesser db = 48 mm-Sicher
+32,3,0.465039,0.46982,0.339361,0.192209,4 zwei Fasen 2x45® (umlaufende Kanten!)-Sicher
+32,4,0.472875,0.251712,0.382761,0.092466,"2.2 Sechskant mit Strichlinie oder nicht dargestellt, Außenkante des Schraubenkopfs gerundet oder gefast"
+32,5,0.472272,0.388699,0.400844,0.082192,Sicher
+32,6,0.459614,0.53232,0.330922,0.307791,"2.1 Tangentialer Übergang, Höhe k = 40 mm (‡ 1 mm)-Sicher"
+32,7,0.465943,0.412457,0.295359,0.098887,1 Länge | = 80 mm-Sicher

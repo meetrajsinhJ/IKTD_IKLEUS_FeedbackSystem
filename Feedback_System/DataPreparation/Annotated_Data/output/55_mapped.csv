@@ -1,0 +1,7 @@
+file_id,row_number,x_center,y_center,width,height,annotation_text
+55,1,0.561064,0.848375,0.858525,0.186056,9 Vollständig und korrekt-1
+55,2,0.620919,0.572284,0.218863,0.147134,"8 Gegebene Schraffur korrekt fortgesetzt, schmale Volllinie, Schraffur jeweils bis Köperkante-Sicher"
+55,3,0.53023,0.368477,0.377267,0.205731,4 Durchgangsloch: Durchmesser db = 48 mm-Sicher
+55,4,0.543531,0.367194,0.25393,0.187767,4 zwei Fasen 2x45® (umlaufende Kanten!)-Sicher
+55,5,0.548972,0.265612,0.324063,0.055603,"2.1 Tangentialer Übergang, Höhe k = 40 mm (‡ 1 mm)-Sicher"
+55,6,0.545345,0.28657,0.360339,0.113772,"1 Länge | = 80 mm, Durchmesser d = 40 mm"

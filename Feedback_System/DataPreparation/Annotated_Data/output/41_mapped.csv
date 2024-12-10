@@ -1,0 +1,6 @@
+file_id,row_number,x_center,y_center,width,height,annotation_text
+41,1,0.504534,0.519889,0.443168,0.493157,"8 Gegebene Schraffur korrekt fortgesetzt, schmale Volllinie, Schraffur jeweils bis Köperkante-Sicher"
+41,2,0.519952,0.406116,0.419589,0.221129,4 Durchgangsloch: Durchmesser db = 48 mm-Sicher
+41,3,0.538392,0.473909,0.408102,0.052181,3 Außendurchmesser korrekt (d2 = 120 mm)
+41,4,0.508767,0.422583,0.183192,0.090676,Sicher
+41,5,0.509674,0.478186,0.217654,0.065868,"2.2 Sechskant mit Strichlinie oder nicht dargestellt, Außenkante des Schraubenkopfs gerundet oder gefast"

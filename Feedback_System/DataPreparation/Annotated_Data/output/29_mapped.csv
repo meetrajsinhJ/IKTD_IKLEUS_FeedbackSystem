@@ -1,0 +1,8 @@
+file_id,row_number,x_center,y_center,width,height,annotation_text
+29,1,0.569831,0.881309,0.856711,0.194611,9 Vollständig und korrekt-1
+29,2,0.566808,0.377246,0.255744,0.18905,4 Durchgangsloch: Durchmesser db = 48 mm-Sicher
+29,3,0.564994,0.378743,0.301693,0.205731,4 zwei Fasen 2x45® (umlaufende Kanten!)-Sicher
+29,4,0.591898,0.309239,0.610641,0.088109,3 Außendurchmesser korrekt (d2 = 120 mm)
+29,5,0.581318,0.163601,0.433495,0.060308,Sicher
+29,6,0.578597,0.291275,0.349456,0.095808,"2.2 Sechskant mit Strichlinie oder nicht dargestellt, Außenkante des Schraubenkopfs gerundet oder gefast"
+29,7,0.574365,0.328058,0.377267,0.13858,Sicher

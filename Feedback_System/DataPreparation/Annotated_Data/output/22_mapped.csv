@@ -1,0 +1,7 @@
+file_id,row_number,x_center,y_center,width,height,annotation_text
+22,1,0.561064,0.839179,0.877872,0.194183,9 Vollständig und korrekt-1
+22,2,0.559855,0.648631,0.262394,0.139863,"6 e1= 22...22,4...23 mm-6 Fase max. 1x45°"
+22,3,0.574365,0.351796,0.481258,0.238238,Sicher
+22,4,0.570435,0.342814,0.299275,0.221129,4 Durchgangsloch: Durchmesser db = 48 mm-Sicher
+22,5,0.542624,0.120616,0.375453,0.133447,4 zwei Fasen 2x45® (umlaufende Kanten!)-Sicher
+22,6,0.559553,0.25834,0.375453,0.11805,"2.2 Sechskant mit Strichlinie oder nicht dargestellt, Außenkante des Schraubenkopfs gerundet oder gefast"

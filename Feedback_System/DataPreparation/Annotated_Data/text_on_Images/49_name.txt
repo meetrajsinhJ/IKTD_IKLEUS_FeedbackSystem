@@ -1,0 +1,9 @@
+9 Schriftfeld-9 Vollständig und korrekt-1
+7 Gewindedarstellung-7.1 Schraube: Körperkante breit, Gewindekern schmal-7.1 Ende Gewinde: umlaufende Körperkante-7.2 Gewindereserve: Grundloch breit, Kern schmal-7.2 Ende Gewinde: umlaufende Körperkante-Sicher
+6 Grundloch-6 e1= 22...22,4...23 mm-Sicher
+3 Scheibe-3 Außendurchmesser korrekt (d2 = 120 mm)
+Wenn geschnitten: umlaufende Kanten vollständig-Sicher
+2 Schraubenkopf-2.2 Sechskant mit Strichlinie oder nicht dargestellt, Außenkante des Schraubenkopfs gerundet oder gefast
+(Maß 4 mm)-Sicher
+2 Schraubenkopf-2.1 Tangentialer Übergang, Höhe k = 40 mm (‡ 1 mm)-Sicher
+1 Schraube allgemein-1 Länge | = 80 mm-1 Fase am unteren Ende (zwei umlaufende Körperkanten)-Sicher

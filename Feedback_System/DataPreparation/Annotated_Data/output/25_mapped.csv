@@ -1,0 +1,13 @@
+file_id,row_number,x_center,y_center,width,height,annotation_text
+25,1,0.590085,0.905475,0.784764,0.167665,9 Vollständig und korrekt-1
+25,2,0.720375,0.475834,0.122733,0.211719,"8 Gegebene Schraffur korrekt fortgesetzt, schmale Volllinie, Schraffur jeweils bis Köperkante-Sicher"
+25,3,0.561669,0.673653,0.382104,0.260907,"7.1 Schraube: Körperkante breit, Gewindekern schmal-7.1 Ende Gewinde: umlaufende Körperkante-7.2 Gewindereserve: Grundloch breit, Kern schmal-7.2 Ende Gewinde: umlaufende Körperkante-Sicher"
+25,4,0.568319,0.765612,0.229746,0.094953,"6 e1= 22...22,4...23 mm-6 Fase max. 1x45°"
+25,5,0.570435,0.700813,0.227932,0.070573,6 Winkel Bohrerspitze = 118°.
+25,6,0.56711,0.465355,0.379686,0.188195,Sicher
+25,7,0.567715,0.465569,0.302297,0.181779,5 X =3*P = 15 mm-Sicher
+25,8,0.590689,0.383234,0.593712,0.088965,4 Durchgangsloch: Durchmesser db = 48 mm-Sicher
+25,9,0.576179,0.273524,0.356711,0.081694,4 zwei Fasen 2x45® (umlaufende Kanten!)-Sicher
+25,10,0.570133,0.387083,0.351874,0.0787,3 Außendurchmesser korrekt (d2 = 120 mm)
+25,11,0.570738,0.520316,0.408706,0.367408,Sicher
+25,12,0.562878,0.441831,0.325272,0.15911,"2.2 Sechskant mit Strichlinie oder nicht dargestellt, Außenkante des Schraubenkopfs gerundet oder gefast"

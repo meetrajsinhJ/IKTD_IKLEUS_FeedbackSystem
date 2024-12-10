@@ -1,0 +1,10 @@
+file_id,row_number,x_center,y_center,width,height,annotation_text
+49,1,0.523579,0.86976,0.847642,0.180068,9 Vollständig und korrekt-1
+49,2,0.504837,0.546407,0.288996,0.217707,"7.1 Schraube: Körperkante breit, Gewindekern schmal-7.1 Ende Gewinde: umlaufende Körperkante-7.2 Gewindereserve: Grundloch breit, Kern schmal-7.2 Ende Gewinde: umlaufende Körperkante-Sicher"
+49,3,0.509976,0.658683,0.229141,0.047904,"6 e1= 22...22,4...23 mm-Sicher"
+49,4,0.521463,0.306886,0.643894,0.073995,3 Außendurchmesser korrekt (d2 = 120 mm)
+49,5,0.519045,0.1713,0.377872,0.078272,Sicher
+49,6,0.539903,0.301326,0.422007,0.092814,"2.2 Sechskant mit Strichlinie oder nicht dargestellt, Außenkante des Schraubenkopfs gerundet oder gefast"
+49,7,0.523579,0.329341,0.430472,0.39521,Sicher
+49,8,0.520556,0.336399,0.31318,0.064585,"2.1 Tangentialer Übergang, Höhe k = 40 mm (‡ 1 mm)-Sicher"
+49,9,0.523881,0.382806,0.397219,0.231822,1 Länge | = 80 mm-1 Fase am unteren Ende (zwei umlaufende Körperkanten)-Sicher

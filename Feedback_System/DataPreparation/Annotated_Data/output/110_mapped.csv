@@ -1,0 +1,6 @@
+file_id,row_number,x_center,y_center,width,height,annotation_text
+110,1,0.509069,0.835971,0.769045,0.16296,9 Vollständig und korrekt-1
+110,2,0.496977,0.41018,0.310762,0.190761,4 zwei Fasen 2x45® (umlaufende Kanten!)-Sicher
+110,3,0.491838,0.335757,0.549577,0.088109,3 Außendurchmesser korrekt (d2 = 120 mm)
+110,4,0.534764,0.306031,0.381499,0.07485,Sicher
+110,5,0.506348,0.352438,0.370617,0.132592,"2.1 Tangentialer Übergang, Höhe k = 40 mm (‡ 1 mm)-Sicher"

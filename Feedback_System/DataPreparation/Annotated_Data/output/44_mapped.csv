@@ -1,0 +1,9 @@
+file_id,row_number,x_center,y_center,width,height,annotation_text
+44,1,0.478537,0.840034,0.825272,0.173653,9 Vollständig und korrekt-1
+44,2,0.461911,0.446108,0.321644,0.318221,"7.1 Schraube: Körperkante breit, Gewindekern schmal-7.1 Ende Gewinde: umlaufende Körperkante-7.2 Gewindereserve: Grundloch breit, Kern schmal-7.2 Ende Gewinde: umlaufende Körperkante-Sicher"
+44,3,0.469468,0.450599,0.318622,0.044055,4 zwei Fasen 2x45® (umlaufende Kanten!)-Sicher
+44,4,0.480351,0.289136,0.675333,0.079555,3 Außendurchmesser korrekt (d2 = 120 mm)
+44,5,0.459492,0.154619,0.32769,0.077417,Sicher
+44,6,0.472491,0.276518,0.363362,0.068007,"2.2 Sechskant mit Strichlinie oder nicht dargestellt, Außenkante des Schraubenkopfs gerundet oder gefast"
+44,7,0.458283,0.305175,0.420798,0.366553,Sicher
+44,8,0.460097,0.312447,0.292624,0.038067,"2.1 Tangentialer Übergang, Höhe k = 40 mm (‡ 1 mm)-Sicher"

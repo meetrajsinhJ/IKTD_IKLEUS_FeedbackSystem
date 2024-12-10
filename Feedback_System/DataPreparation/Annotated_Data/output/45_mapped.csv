@@ -1,0 +1,7 @@
+file_id,row_number,x_center,y_center,width,height,annotation_text
+45,1,0.509976,0.558597,0.398428,0.367836,"8 Gegebene Schraffur korrekt fortgesetzt, schmale Volllinie, Schraffur jeweils bis Köperkante-Sicher"
+45,2,0.571644,0.5571,0.33555,0.387938,"7.1 Schraube: Körperkante breit, Gewindekern schmal-7.1 Ende Gewinde: umlaufende Körperkante-7.2 Gewindereserve: Grundloch breit, Kern schmal-7.2 Ende Gewinde: umlaufende Körperkante-Sicher"
+45,3,0.541717,0.666595,0.222491,0.108212,"6 e1= 22...22,4...23 mm-6 Winkel Bohrerspitze = 118°."
+45,4,0.557134,0.605432,0.289601,0.068862,Sicher
+45,5,0.554111,0.402053,0.310157,0.195894,5 X =3*P = 15 mm-Sicher
+45,6,0.542019,0.30988,0.647521,0.089393,4 zwei Fasen 2x45® (umlaufende Kanten!)-Sicher

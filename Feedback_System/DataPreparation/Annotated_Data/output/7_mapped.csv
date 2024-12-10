@@ -1,0 +1,8 @@
+file_id,row_number,x_center,y_center,width,height,annotation_text
+7,1,0.871221,0.918948,0.165659,0.101369,9 Vollständig und korrekt-1
+7,2,0.62636,0.719632,0.159613,0.08426,"8 Gegebene Schraffur korrekt fortgesetzt, schmale Volllinie, Schraffur jeweils bis Köperkante-Sicher"
+7,3,0.520254,0.40633,0.313785,0.216424,4 zwei Fasen 2x45® (umlaufende Kanten!)-Sicher
+7,4,0.50786,0.187981,0.332527,0.090248,"2.2 Sechskant mit Strichlinie oder nicht dargestellt, Außenkante des Schraubenkopfs gerundet oder gefast"
+7,5,0.515115,0.453807,0.365175,0.384089,Sicher
+7,6,0.51844,0.324423,0.238815,0.05432,1 Länge | = 80 mm-Sicher
+7,7,0.518742,0.331052,0.272068,0.10864,1 Fase am unteren Ende (zwei umlaufende Körperkanten)-Sicher

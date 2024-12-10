@@ -1,0 +1,9 @@
+file_id,row_number,x_center,y_center,width,height,annotation_text
+100,1,0.532346,0.882806,0.847037,0.17793,9 Vollständig und korrekt-1
+100,2,0.517231,0.637725,0.444377,0.284859,"8 Gegebene Schraffur korrekt fortgesetzt, schmale Volllinie, Schraffur jeweils bis Köperkante-Sicher"
+100,3,0.535671,0.566296,0.302297,0.169376,"7.1 Schraube: Körperkante breit, Gewindekern schmal-7.1 Ende Gewinde: umlaufende Körperkante-7.2 Gewindereserve: Grundloch breit, Kern schmal-7.2 Ende Gewinde: umlaufende Körperkante-Sicher"
+100,4,0.516022,0.414457,0.301693,0.218991,4 zwei Fasen 2x45® (umlaufende Kanten!)-Sicher
+100,5,0.558041,0.218777,0.169287,0.125321,"2.2 Sechskant mit Strichlinie oder nicht dargestellt, Außenkante des Schraubenkopfs gerundet oder gefast"
+100,6,0.523881,0.313944,0.369408,0.065013,Sicher
+100,7,0.50786,0.356074,0.371221,0.369974,"2.1 Tangentialer Übergang, Höhe k = 40 mm (‡ 1 mm)-Sicher"
+100,8,0.529021,0.342814,0.419589,0.124465,1 Länge | = 80 mm-Sicher

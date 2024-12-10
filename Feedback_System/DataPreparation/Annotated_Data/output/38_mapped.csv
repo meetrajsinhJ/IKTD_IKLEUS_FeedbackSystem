@@ -1,0 +1,13 @@
+file_id,row_number,x_center,y_center,width,height,annotation_text
+38,1,0.5263,0.872968,0.850665,0.17793,9 Vollständig und korrekt-1
+38,2,0.490629,0.501497,0.389964,0.212575,"8 Gegebene Schraffur korrekt fortgesetzt, schmale Volllinie, Schraffur jeweils bis Köperkante-Sicher"
+38,3,0.525393,0.596664,0.396614,0.213858,"7.1 Schraube: Körperkante breit, Gewindekern schmal-7.1 Ende Gewinde: umlaufende Körperkante-7.2 Gewindereserve: Grundloch breit, Kern schmal-7.2 Ende Gewinde: umlaufende Körperkante-Sicher"
+38,4,0.505139,0.60586,0.21584,0.07485,"6 e1= 22...22,4...23 mm-6 Winkel Bohrerspitze = 118°."
+38,5,0.529021,0.559453,0.304716,0.042772,Sicher
+38,6,0.503023,0.403336,0.330109,0.200171,5 X =3*P = 15 mm-Sicher
+38,7,0.501209,0.404405,0.269649,0.200599,4 Durchgangsloch: Durchmesser db = 48 mm-Sicher
+38,8,0.507557,0.255774,0.314994,0.049615,4 zwei Fasen 2x45® (umlaufende Kanten!)-Sicher
+38,9,0.509674,0.317365,0.359129,0.092387,"2.2 Sechskant mit Strichlinie oder nicht dargestellt, Außenkante des Schraubenkopfs gerundet oder gefast"
+38,10,0.505441,0.416595,0.400242,0.306245,Sicher
+38,11,0.506348,0.323781,0.247279,0.017964,"2.1 Tangentialer Übergang, Höhe k = 40 mm (‡ 1 mm)-Sicher"
+38,12,0.509674,0.314585,0.319226,0.050898,1 Länge | = 80 mm-1 Durchmesser d = 40 mm-Sicher

@@ -1,0 +1,5 @@
+file_id,row_number,x_center,y_center,width,height,annotation_text
+112,1,0.527207,0.852866,0.811366,0.171942,9 Vollständig und korrekt-1
+112,2,0.506046,0.394996,0.272068,0.186056,4 Durchgangsloch: Durchmesser db = 48 mm-Sicher
+112,3,0.511487,0.306458,0.614268,0.082549,3 Außendurchmesser korrekt (d2 = 120 mm)
+112,4,0.499395,0.288067,0.420798,0.05432,Sicher

@@ -1,0 +1,11 @@
+file_id,row_number,x_center,y_center,width,height,annotation_text
+73,1,0.506953,0.694825,0.211004,0.13302,"6 e1= 22...22,4...23 mm-6 Fase max. 1x45°"
+73,2,0.514813,0.609923,0.259371,0.082977,6 Winkel Bohrerspitze = 118°.
+73,3,0.52237,0.393071,0.311971,0.216424,Sicher
+73,4,0.51058,0.403122,0.282346,0.198888,5 X =3*P = 15 mm-Sicher
+73,5,0.525393,0.30154,0.651753,0.060736,4 Durchgangsloch: Durchmesser db = 48 mm-Sicher
+73,6,0.51844,0.169162,0.362152,0.080838,4 zwei Fasen 2x45® (umlaufende Kanten!)-Sicher
+73,7,0.526904,0.298332,0.423821,0.086826,3 Außendurchmesser korrekt (d2 = 120 mm)
+73,8,0.519952,0.569932,0.320435,0.055175,Sicher
+73,9,0.528416,0.371471,0.442563,0.462361,"2.2 Sechskant mit Strichlinie oder nicht dargestellt, Außenkante des Schraubenkopfs gerundet oder gefast"
+73,10,0.515719,0.325064,0.301088,0.057314,Sicher

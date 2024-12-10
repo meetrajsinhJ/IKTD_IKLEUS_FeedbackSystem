@@ -1,0 +1,10 @@
+file_id,row_number,x_center,y_center,width,height,annotation_text
+114,1,0.529625,0.879598,0.846433,0.179213,9 Vollständig und korrekt-1
+114,2,0.523579,0.536142,0.458283,0.461506,"8 Gegebene Schraffur korrekt fortgesetzt, schmale Volllinie, Schraffur jeweils bis Köperkante-Sicher"
+114,3,0.514813,0.741873,0.230351,0.064585,6 Winkel Bohrerspitze = 118°.
+114,4,0.513603,0.632806,0.2763,0.08426,Sicher
+114,5,0.512999,0.402053,0.289601,0.206159,5 X =3*P = 15 mm-Sicher
+114,6,0.515417,0.322284,0.610036,0.068862,4 zwei Fasen 2x45® (umlaufende Kanten!)-Sicher
+114,7,0.526602,0.194397,0.365175,0.089393,3 Außendurchmesser korrekt (d2 = 120 mm)
+114,8,0.523277,0.305175,0.356106,0.082549,Sicher
+114,9,0.509674,0.329555,0.355502,0.085971,"2.2 Sechskant mit Strichlinie oder nicht dargestellt, Außenkante des Schraubenkopfs gerundet oder gefast"
