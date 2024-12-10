@@ -13,13 +13,14 @@ Table of Contents
 
 1.DATASET
 
-
 4 different types of Technical Drawings along with their respective Evaluation Table:-
 a) Schraube
 b) Baugruppen
 c) Toleranz
 d) Gussaufgabe
-![Screenshot 2024-12-10 at 15 05 52](https://github.com/user-attachments/assets/81e3b8d2-3c05-41d5-9c4e-d9498f9eb04c)
+
+
+ ![Screenshot 2024-12-10 at 15 05 52](https://github.com/user-attachments/assets/81e3b8d2-3c05-41d5-9c4e-d9498f9eb04c)
 
 2.DATA AUGMENTATION
 
