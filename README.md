@@ -82,6 +82,8 @@ Models along with the Training Scripts are uploaded in Image Classification dire
    ![result](https://github.com/user-attachments/assets/c3fd8783-8096-4256-acd2-eb9cb11b2e1c)
 
 7.FEEDBACK SYSTEM MODULE:
+
+a). Overview of the system Architecture
    
 <img width="655" alt="Screenshot 2024-11-17 at 18 01 01" src="https://github.com/user-attachments/assets/de31df5e-d194-42f7-9e5f-1592d4918f6a">
 
@@ -89,7 +91,7 @@ Dataset Preparation:
 
 ![Screenshot 2024-12-10 at 15 36 30](https://github.com/user-attachments/assets/6a1760b4-75ac-4eeb-8339-cedfcd6c5a0f)
 
-Model Fusion:
+b). Model Fusion:
 
 
 Combining Visual Features with Text Analysis along with Domain Knowledge to generate feedback on the drawing.
@@ -98,7 +100,7 @@ Combining Visual Features with Text Analysis along with Domain Knowledge to gene
 
 
 
-Output:
+c). Output:
 ![inference_visualization](https://github.com/user-attachments/assets/c9814aae-ecca-4d1a-a283-f8723a1ffab0)
 ![inference_visualization9](https://github.com/user-attachments/assets/bd85b1e6-0112-44f8-b699-77d24d3e5372)
 ![inference_visualization10](https://github.com/user-attachments/assets/65dac3ad-30eb-4e38-b33e-b20d23558771)
