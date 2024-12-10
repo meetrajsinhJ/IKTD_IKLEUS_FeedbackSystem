@@ -47,7 +47,7 @@ b) Clustering on Entire Dataset
 
 
 
-Canny Edge Detection:
+a). Canny Edge Detection:
 
 ![Screenshot 2024-12-10 at 15 23 31](https://github.com/user-attachments/assets/564213f5-94ba-4d61-b135-516c4bcab0d2)
 ![Screenshot 2024-12-10 at 15 23 40](https://github.com/user-attachments/assets/b2e29034-5841-4811-87a6-6650022365cb)
@@ -55,7 +55,7 @@ Canny Edge Detection:
 
 
 
-SIFT feature Matching and Homography Matrix Calculations:
+b). SIFT feature Matching and Homography Matrix Calculations:
 
 ![Screenshot 2024-12-10 at 15 24 49](https://github.com/user-attachments/assets/d9b4a0ea-ad41-445f-bae6-c5865273934c)
 
