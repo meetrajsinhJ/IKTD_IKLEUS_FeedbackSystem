@@ -25,6 +25,7 @@ d) Gussaufgabe
 
 
 Increasing the the dataset by implementating various data Augmentation Techniques:
+
 Scale variation , Brightness and Contrast , Rotation etc.
 ![Screenshot 2024-12-10 at 15 15 05](https://github.com/user-attachments/assets/66110008-3132-4017-9ff9-0b737ac809be)
 
