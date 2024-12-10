@@ -31,6 +31,7 @@ Scale variation , Brightness and Contrast , Rotation etc.
 ![Screenshot 2024-12-10 at 15 15 05](https://github.com/user-attachments/assets/66110008-3132-4017-9ff9-0b737ac809be)
 
 b). Adding noise and reconstruction using Variational AutoEncoders
+
 ![reconstructed](https://github.com/user-attachments/assets/f3aee5d1-66c6-4b4e-8912-4befa47fb6a3)
 ![vaeimages](https://github.com/user-attachments/assets/cb3bd2a1-8262-44f5-a261-4b256cd12ae0)
 
@@ -39,8 +40,11 @@ b). Adding noise and reconstruction using Variational AutoEncoders
 Appling k-means Clustering algorithm on the dataset.
 
 a) Clustering on Corrected and Not-Corrected Images
+
 ![Screenshot 2024-12-10 at 15 21 03](https://github.com/user-attachments/assets/4f7c59a2-b25c-4191-a612-ce6299bd8e38)
+
 b) Clustering on Entire Dataset
+
 ![Screenshot 2024-12-10 at 15 21 18](https://github.com/user-attachments/assets/470125cd-67e8-4953-8e42-ba147fa325b5)
 
 4.COMPUTER VISION OPERATIONS:
@@ -95,13 +99,13 @@ c). Model Fusion:
 
   -Combining Visual Features with Text Analysis along with Domain Knowledge to generate feedback on the drawing.
   -Training the fusion Model on the custom annotated Dataset for 1000 Epochs.
+  
 ![training_loss](https://github.com/user-attachments/assets/d45abec0-2d00-41d4-8243-321b25214824)
 ![training_metrics](https://github.com/user-attachments/assets/46a65fc2-6439-4d0f-8cbd-50a8fc93bcdf)
 
 
 
 d). Output:
-
 
 ![inference_visualization](https://github.com/user-attachments/assets/c9814aae-ecca-4d1a-a283-f8723a1ffab0)
 ![inference_visualization9](https://github.com/user-attachments/assets/bd85b1e6-0112-44f8-b699-77d24d3e5372)
