@@ -87,20 +87,22 @@ a). Overview of the system Architecture
    
 <img width="655" alt="Screenshot 2024-11-17 at 18 01 01" src="https://github.com/user-attachments/assets/de31df5e-d194-42f7-9e5f-1592d4918f6a">
 
-Dataset Preparation:
+b). Dataset Preparation:
 
 ![Screenshot 2024-12-10 at 15 36 30](https://github.com/user-attachments/assets/6a1760b4-75ac-4eeb-8339-cedfcd6c5a0f)
 
-b). Model Fusion:
+c). Model Fusion:
 
-
-Combining Visual Features with Text Analysis along with Domain Knowledge to generate feedback on the drawing.
+  -Combining Visual Features with Text Analysis along with Domain Knowledge to generate feedback on the drawing.
+  -Training the fusion Model on the custom annotated Dataset for 1000 Epochs.
 ![training_loss](https://github.com/user-attachments/assets/d45abec0-2d00-41d4-8243-321b25214824)
 ![training_metrics](https://github.com/user-attachments/assets/46a65fc2-6439-4d0f-8cbd-50a8fc93bcdf)
 
 
 
-c). Output:
+d). Output:
+
+
 ![inference_visualization](https://github.com/user-attachments/assets/c9814aae-ecca-4d1a-a283-f8723a1ffab0)
 ![inference_visualization9](https://github.com/user-attachments/assets/bd85b1e6-0112-44f8-b699-77d24d3e5372)
 ![inference_visualization10](https://github.com/user-attachments/assets/65dac3ad-30eb-4e38-b33e-b20d23558771)
