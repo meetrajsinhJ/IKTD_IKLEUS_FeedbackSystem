@@ -107,9 +107,15 @@ c). Model Fusion:
 
 d). Output:
 
+  -> Deployment using FASTAPI on local host for inference check
+
 ![inference_visualization](https://github.com/user-attachments/assets/c9814aae-ecca-4d1a-a283-f8723a1ffab0)
 ![inference_visualization9](https://github.com/user-attachments/assets/bd85b1e6-0112-44f8-b699-77d24d3e5372)
 ![inference_visualization10](https://github.com/user-attachments/assets/65dac3ad-30eb-4e38-b33e-b20d23558771)
+
+
+
+
 
 
 
