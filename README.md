@@ -25,12 +25,12 @@ d) Gussaufgabe
 2.DATA AUGMENTATION
 
 
-Increasing the the dataset by implementating various data Augmentation Techniques:
+a). Increasing the the dataset by implementating various data Augmentation Techniques:
 Scale variation , Brightness and Contrast , Rotation etc.
 
 ![Screenshot 2024-12-10 at 15 15 05](https://github.com/user-attachments/assets/66110008-3132-4017-9ff9-0b737ac809be)
 
-Adding noise and reconstruction using Variational AutoEncoders
+b). Adding noise and reconstruction using Variational AutoEncoders
 ![reconstructed](https://github.com/user-attachments/assets/f3aee5d1-66c6-4b4e-8912-4befa47fb6a3)
 ![vaeimages](https://github.com/user-attachments/assets/cb3bd2a1-8262-44f5-a261-4b256cd12ae0)
 
